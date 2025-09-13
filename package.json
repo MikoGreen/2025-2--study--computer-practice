@@ -6,9 +6,12 @@
   "repository": "git@github.com:MikoGreen/2025-2--study--computer-practice.git",
   "author": "Nadezhda Rogozhina <miko.green@yandex.ru>",
   "license": "CC-BY-4.0",
-    "config": {
-	"commitizen": {
-	    "path": "cz-conventional-changelog"
-	}
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "standard-changelog": "^7.0.1"
+  }
 }
